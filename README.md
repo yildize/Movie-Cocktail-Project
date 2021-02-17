@@ -7,7 +7,8 @@ A machine learning based movie recommendation app.
 * Here is the link of the app: [moviecocktail](https://www.moviecocktail.netlify.app)
 
 ## How it Works?
-* Let's say you want to watch something 30% like 'the Matrix (1999)' and 70% like 'Titanic (1997)' then you can search for the movies **the Matrix (1999)** and **Titanic (1997)**,combine them as you wish and find the top ten closest movies to this combination.
+* Let's say you want to watch something 30% like 'the Matrix (1999)' and 70% like 'Titanic (1997)' then you can search for the movies **the Matrix (1999)** and **Titanic (1997)**, combine them with the ratios of 30% and 70%  and find the top ten closest movies to this combination.
+* The combination/mix represents the "cocktail". The movie cocktail app suggests top 10 closest movies to the cocktail.
 * Note that, the program will work for a single movie as well, so you don't always have to mix the movies.
 
 ## Distances?
@@ -22,5 +23,4 @@ A machine learning based movie recommendation app.
 
 ## Tips
 * You don't have to mix the movies, you can just select a single movie, and find the closest movies to the specified movie. In this case slider value won't matter as long as it is greater than zero.
-* Search bar only allows searches of three or more characters. So if you are looking for a movie '21' you should search as '21 (' or if you're looking for the movie 'V' then you should search as 'V ('
-* This project is done for educational purposes only, there might be some bugs on the GUI.
+
