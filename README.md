@@ -4,7 +4,7 @@ A machine learning based movie recommendation app.
 * Movie Cocktail suggests new movies based on the selected combination of movies.
 * Not sure which movie to watch? Want to watch something similar to movies you've watched before?
 * Search and select movies you've already watch, mix them as you wish and get the closest movies to the cocktail.
-* Here is the link of the app: [moviecocktail](https://www.moviecocktail.netlify.app)
+* Here is the link of the app: [moviecocktail](moviecocktail.netlify.app)
 
 ## How it Works?
 * Let's say you want to watch something 30% like 'the Matrix (1999)' and 70% like 'Titanic (1997)' then you can search for the movies **the Matrix (1999)** and **Titanic (1997)**, combine them with the ratios of 30% and 70%  and find the top ten closest movies to this combination.
