@@ -1,0 +1,5 @@
+bu klasör içerisinde normalde movieRecBig.pkl modeli de yer almalı, ancak boyutu büyük olduğu için buraya eklemedim. Zaten şuanda aktif olarak başka bir
+repo'da duruyor, ilgili repo binder ile hizmet veriyor.
+
+Model gerekli olursa linkini verelim:
+https://github.com/yildize/movieCocktail/blob/master/movieRecBig.pkl

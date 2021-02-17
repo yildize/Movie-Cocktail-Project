@@ -1,0 +1,7 @@
+Flask
+flask_restful
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0+cpu
+gunicorn==20.0.4
+flask-cors
+
