@@ -1,7 +1,6 @@
 # Movie-Cocktail
 A machine learning based movie recommendation app.
 
-# Movie Cocktail
 * Movie Cocktail suggests new movies based on the selected combination of movies.
 * Not sure which movie to watch? Want to watch something similar to movies you've watched before?
 * Search and select movies you've already watch, mix them as you wish and get the closest movies to the cocktail.
